@@ -141,7 +141,10 @@ function App() {
         {/* <Home_Take data={data}/> */}
        {/* <Header_Portfolio/> */}
        {/* <Home_Portfolio/> */}
-       <Test2/>
+       {/* <Test2/> */}
+
+
+       {/* This is to test the page is working or pull is working */}
 
     </div>
   );
